@@ -1,4 +1,4 @@
-import Viewer from 'viewerjs'
+import Viewer from 'viewerjs-sbwl'
 import { debounce } from 'throttle-debounce'
 
 const install = (Vue, {name = 'viewer', debug = false}) => {
